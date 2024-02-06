@@ -13,3 +13,36 @@
   width: 100%;
   border-radius: 20px 20px 0 0;
 }
+.h1clas {
+  margin-top: 32px;
+  font-size: 22px;
+  font-weight: 900;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1f2e55;
+}
+.pclas {
+  width: 263px;
+  height: 75px;
+  margin-top: 16px;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #717fa6;
+}
+.middle-div {
+  width: 279px;
+  margin-top: 24px;
+  padding: 17px 16px 16px;
+  border-radius: 11px;
+  background-color: #f7f9ff;
+}
+.small-div {
+  display: flex;
+  background-color: aqua;
+  margin-left: 20px;
+}
